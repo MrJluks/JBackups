@@ -1,7 +1,7 @@
 
 # Jluk's Backups
 
-JBackups is a program written in python that allows you to save the directories you need to back up and create it when you need it, as well as restore files.
+JBackups is a program written in python that allows you to save the directories you need to back up and create it when you need it, as well as restore files. Sorry for my bad code
 
 
 
